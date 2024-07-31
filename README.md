@@ -14,10 +14,10 @@ This project is to implement a my practices with javascript and node.js to creat
 7. [Questions](#questions)
 
 ## Installation
-The user will have to first install a code editor as well as properly following the guidelines for node.js as well. The link for installing the node will be diaplyed here [https://nodejs.org/en]. Once the user has installed the proper node.js and code editor the user will now have to follow the link to my github which i will display here [insert link to github]. Once the user is able to identify the link an copy and clone it they will now be able to use the command line applciation. A link to my video will be diaplyed here [].
+The user will have to first install a code editor as well as properly following the guidelines for node.js as well. The link for installing the node will be displayed here [https://nodejs.org/en]. Once the user has installed the proper node.js and code editor the user will now have to follow the link to my github which i will display here [https://github.com/Innovative-J/SVG-TradeMark-Engine.git]. Once the user is able to identify the link an copy and clone it they will now be able to use the command line application. A link to my video will be displayed in assets video mark down .
 
 ## Usage
-Please see the images folder in order to see the proper sites with teh relevant information for the SVG-TradeMark-Engine. The usage for the proper command line applcation is  to create a simple trade mark logo and text within the shape for a quick and easy robust logo maker.
+Please see the images folder in order to see the proper sites with teh relevant information for the SVG-TradeMark-Engine. The usage for the proper command line application is  to create a simple trade mark logo and text within the shape for a quick and easy robust logo maker. 
 
 ## License
 This project is licensed under the  license.
@@ -26,7 +26,7 @@ This project is licensed under the  license.
 N/A
 
 ## Tests
-In order to test the application the user has to first verify that the proper installation for code editor and node.js. Once all the necessities are installed the user must simply open a new terminal in teh coder editor and input in the command line "node.js index.js". After doing so a prompt of questions will be displayed and guide you to creating a simple logo with the response given from the user.
+In order to test the application the user has to first verify that the proper installation for code editor and node.js. Once all the necessities are installed the user must simply open a new terminal in teh coder editor and input in the command line "node.js index.js". After doing so a prompt of questions will be displayed and guide you to creating a simple logo with the response given from the user. Test link []
 
 ## Questions
 For questions about this project, please input your contact  and .
